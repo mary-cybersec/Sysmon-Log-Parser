@@ -1,4 +1,8 @@
+### 📸 Sample Output
 
+Here’s a screenshot of a sample Sysmon process creation report:
+
+![Sysmon Output](sysmon-output.png)
  ## Sysmon Log Parser - PowerShell Script
 
 Overview
